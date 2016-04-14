@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[hyphen design]]></title>
         <description><![CDATA[hyphen design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hyphen-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 20:01:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 20:07:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hyphen-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Virat Imagery</p>]]></description>
+            <link>https://thegrid.ai/hyphen-design/8fac6f90-65ce-4f06-9c90-74a34c58bbc2/index.html</link>
+            <guid isPermaLink="false">8fac6f90-65ce-4f06-9c90-74a34c58bbc2</guid>
+            <pubDate>Thu, 14 Apr 2016 20:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About hyphen design]]></title>
             <description><![CDATA[<article><h1>About hyphen design</h1><p>Hyphen Design has been Chisel’s strategic brand consulting and design partner since the inception of the business. Hyphen Design has coined the name CHISEL, designed the logo and brand identity, directed the photoshoot with Virat Kohli, has helped KGD arrive at a unique and contemporary design language for the fitness centres. Hyphen also advises CHISEL on all it’s alliances and helps ideate and create unique inititiatives like the #NeverStop Fitness Party. Beyond strategy, ideas and design, hyphen also manages the digital footprint of Chisel.</p></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/hyphen-design/about-us/index.html</link>
             <guid isPermaLink="false">63b51f5c-010a-4adb-b1db-98afa4d183d1</guid>
             <pubDate>Thu, 14 Apr 2016 20:00:57 GMT</pubDate>
         </item>
