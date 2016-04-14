@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hyphen design]]></title>
+        <description><![CDATA[hyphen design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Apr 2016 20:01:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About hyphen design]]></title>
+            <description><![CDATA[<article><h1>About hyphen design</h1><p>Hyphen Design has been Chisel’s strategic brand consulting and design partner since the inception of the business. Hyphen Design has coined the name CHISEL, designed the logo and brand identity, directed the photoshoot with Virat Kohli, has helped KGD arrive at a unique and contemporary design language for the fitness centres. Hyphen also advises CHISEL on all it’s alliances and helps ideate and create unique inititiatives like the #NeverStop Fitness Party. Beyond strategy, ideas and design, hyphen also manages the digital footprint of Chisel.</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">63b51f5c-010a-4adb-b1db-98afa4d183d1</guid>
+            <pubDate>Thu, 14 Apr 2016 20:00:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
